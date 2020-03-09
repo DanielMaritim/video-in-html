@@ -4,4 +4,4 @@ a simple repo about placing a video in awebsite with html
 
 The HTML5 <video> element specifies a standard way to embed a video in a web page.
   
-  The controls attribute adds video controls, like play, pause, and volume.
+Using the the controls attribute inside the <video> element will add video controls, like play, pause, and volume.
